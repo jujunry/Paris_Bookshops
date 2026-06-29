@@ -9,7 +9,6 @@
     <taskbody>
         <context>
             <xref href="Tips.dita"/>
-            <ph keyref="guide_version"/>
         </context>
         <steps>
             <step>
@@ -77,6 +76,8 @@
                     newly found worlds.</cmd>
             </step>
         </steps>
+        <result>And that's how your best day in Paris comes to an end! Hope you enjoyed it
+            :)</result>
 
     </taskbody>
 
