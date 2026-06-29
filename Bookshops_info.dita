@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="Bookshops_info">
+    <title>Parisian Anglophone bookshops</title>
+    <shortdesc>All the information you need on the parisian Anglophone bookshops!</shortdesc>
+    
+    <prolog>
+        <author>Juliette Nereyou</author>
+        <critdates>
+            <created date="2026-06-25"/>
+        </critdates>
+    </prolog>
+    
+    <refbody>
+        
+        <simpletable frame="all" relcolwidth="1* 1* 1* 1* 1* 1*" id="simpletable_mxf_1qm_njc">
+            <sthead>
+                <stentry>Bookshop</stentry>
+                <stentry>Address</stentry>
+                <stentry>Genres</stentry>
+                <stentry>Charm</stentry>
+                <stentry>Website</stentry>
+            </sthead>
+            <strow>
+                <stentry><b>Smith &amp; Son</b></stentry>
+                <stentry>248,250 Rue de Rivoli 75001</stentry>
+                <stentry>Everything: from newest books to indie newspapers</stentry>
+                <stentry>Largest selection, tearoom upstairs</stentry>
+                <stentry><xref href="https://www.smithandson.com/" format="html" scope="external"
+                    /></stentry>
+            </strow>
+            <strow>
+                <stentry><b>Librairie Galignani</b></stentry>
+                <stentry>224 Rue de Rivoli 75001</stentry>
+                <stentry>Everything: any book can be ordered (English and French)</stentry>
+                <stentry>1930s Italian, floor-to-ceiling wooden shelves</stentry>
+                <stentry><xref href="https://www.galignani.fr/" format="html" scope="external"
+                    /></stentry>
+            </strow>
+            <strow>
+                <stentry><b>Shakespeare &amp; Company</b></stentry>
+                <stentry>37 Rue de la Bûcherie 75005</stentry>
+                <stentry>English classics and newest books</stentry>
+                <stentry>1950s Anglo-Saxon, reading room, close to Notre-Dame</stentry>
+                <stentry><xref href="https://www.shakespeareandcompany.com/" format="html"
+                        scope="external"/></stentry>
+            </strow>
+            <strow>
+                <stentry><b>The Abbey Bookshop</b></stentry>
+                <stentry>29 Rue de la Parcheminerie 75005</stentry>
+                <stentry>English classics and hidden gems</stentry>
+                <stentry>Canadian, jazz music, book overflow</stentry>
+                <stentry><xref href="https://www.abbeybookshop.org/" format="html" scope="external"
+                    /></stentry>
+            </strow>
+            <strow>
+                <stentry><b>San Francisco Book Co</b></stentry>
+                <stentry>17 Rue Monsieur le Prince 75006</stentry>
+                <stentry>Second-hand books of every genre</stentry>
+                <stentry>West Coast, Bay Area vibe</stentry>
+                <stentry><xref href="https://www.sfparis.com/" format="html" scope="external"
+                    /></stentry>
+            </strow>
+            <strow>
+                <stentry><b>The Red Wheelbarrow Bookstore</b></stentry>
+                <stentry>9, 11 Rue de Médicis 75006</stentry>
+                <stentry>Curated selection of books</stentry>
+                <stentry>Blue picture windows overlooking the Jardin du Luxembourg</stentry>
+                <stentry><xref href="https://theredwheelbarrowbookstore.com/" format="html"
+                        scope="external"/></stentry>
+            </strow>
+        </simpletable>
+
+        <section>
+            <p>This is the <ph keyref="guide_version"/> guide.</p>
+        </section>
+
+    </refbody>
+</reference>

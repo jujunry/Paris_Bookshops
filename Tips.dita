@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="tips_bookshops">
+    <title>More tips for visiting parisian bookshops</title>
+    <shortdesc>General advice for your bookshop tour.</shortdesc>
+    <prolog>
+        <author>Juliette Nereyou</author>
+        <critdates>
+            <created date="2026-06-25"/>
+        </critdates>
+    </prolog>
+
+    <body>
+        <note type="important">Some shops only accept cash or French debit cards.</note>
+        <note type="important">Always check the shop's website for temporary closures.</note>
+        <note type="attention">Watch your belongings in busy areas like the Latin Quarter.</note>
+        <note type="tip">Make sure you've got everything you need: comfortable shoes, one or two
+            stylish and sturdy bags, and a bottle of water.</note>
+        <note type="tip">We recommend following the itinerary on a weekday and setting off from
+            Place de la Concorde at 2 pm.</note>
+        <note type="tip">Most bookshops are closed on Sundays and public holidays.</note>
+        <p rev="2.0">These tips were updated for the <ph keyref="guide_version"/>.</p>
+    </body>
+    
+</topic>

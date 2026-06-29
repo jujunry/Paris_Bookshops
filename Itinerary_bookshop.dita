@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="bookshop_itinerary">
+    <title>Visit 6 Anglophone bookshops in Paris in one day</title>
+    <shortdesc>Follow this 3-hour walking itinerary from Concorde to the Latin Quarter, visiting six
+        indie English bookshops. The tour ends at the Jardin du Luxembourg, where you can sit back
+        and enjoy reading all the books you've found.</shortdesc>
+
+    <taskbody>
+        <context>
+            <xref href="Tips.dita"/>
+            <ph keyref="guide_version"/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Start at Place de la Concorde (Métro Concorde, lines 1, 8 and 12).</cmd>
+            </step>
+            <step>
+                <cmd>From the Obélisque, walk east along Rue de Rivoli.</cmd>
+            </step>
+            <step>
+                <cmd>Visit <b>Smith and Son</b> at 248 Rue de Rivoli.</cmd>
+
+                <info>This Anglophone bookshop is the largest one in Paris. We recommend you focus
+                    on the newest books and magazines, and visit the tearoom upstairs.</info>
+            </step>
+            <step>
+                <cmd>Continue east to <b>Librairie Galignani</b> at 224 Rue de Rivoli.</cmd>
+
+                <info>Galignani was the first English bookshop on the continent. With its wooden
+                    interior and glass roof, it specialises in art books.</info>
+            </step>
+            <step>
+                <cmd>Head down to the quayside, passing the Louvre Museum on the way.</cmd>
+            </step>
+            <step>
+                <cmd>Continue eastwards along the Seine.</cmd>
+            </step>
+            <step>
+                <cmd>Cross the Pont Notre-Dame and visit the flower market.</cmd>
+            </step>
+            <step>
+                <cmd>Walk to Notre-Dame de Paris and stop for a photo or to cool down.</cmd>
+            </step>
+            <step>
+                <cmd>Cross the Petit Pont-Cardinal Lustiger, just south of the cathedral.</cmd>
+            </step>
+            <step>
+                <cmd>Stop at <b>Shakespeare and Company</b> at 37 Rue de la Bûcherie.</cmd>
+
+                <info>The most famous bookshop in Paris. Don't miss the reading room
+                    upstairs!</info>
+            </step>
+            <step>
+                <cmd>Cross the street to <b>The Abbey Bookshop</b> at 29 Rue de la
+                    Parcheminerie.</cmd>
+
+                <info>In this Canadian-owned bookshop, jazz music is always playing. Lose yourself
+                    in this little shop brimming with books, which feels like a real maze.</info>
+            </step>
+            <step>
+                <cmd>Walk 8 minutes west to <b>San Francisco Book Company</b> at 17 Rue Monsieur le
+                    Prince.</cmd>
+
+                <info>The cosiest second-hand bookshop with a californian vibe. Stock up on American
+                    literature here!</info>
+            </step>
+            <step>
+                <cmd>Continue south to <b>The Red Wheelbarrow Bookstore</b> at 9 Rue de
+                    Médicis.</cmd>
+
+                <info>This charming indie shop is the last stop on the itinerary. Behind this iconic
+                    and timeless blue storefront lies a carefully curated selection of books.</info>
+            </step>
+            <step>
+                <cmd>As you leave the bookshop, pop into the Jardin du Luxembourg to dive into your
+                    newly found worlds.</cmd>
+            </step>
+        </steps>
+
+    </taskbody>
+
+</task>
