@@ -7,6 +7,7 @@
         <author>Juliette Nereyou</author>
         <critdates>
             <created date="2026-06-25"/>
+            <revised modified="2026-06-29"/>
         </critdates>
     </prolog>
 
@@ -19,7 +20,6 @@
         <note type="tip">We recommend following the itinerary on a weekday and setting off from
             Place de la Concorde at 2 pm.</note>
         <note type="tip">Most bookshops are closed on Sundays and public holidays.</note>
-        <p rev="2.0">These tips were updated for the <ph keyref="guide_version"/>.</p>
     </body>
-    
+
 </topic>

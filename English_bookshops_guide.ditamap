@@ -12,13 +12,9 @@
         <keywords>
             <keyword>Bookstores</keyword>
         </keywords>
+        <othermeta name="city" content="Paris"/>
+        <othermeta name="status" content="draft"/>
     </topicmeta>
-
-    <keydef keys="guide_version">
-        <topicmeta>
-            <linktext>2026 Edition</linktext>
-        </topicmeta>
-    </keydef>
 
 
     <topichead>

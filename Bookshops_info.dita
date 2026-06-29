@@ -3,16 +3,20 @@
 <reference id="Bookshops_info">
     <title>Parisian Anglophone bookshops</title>
     <shortdesc>All the information you need on the parisian Anglophone bookshops!</shortdesc>
-    
+
     <prolog>
         <author>Juliette Nereyou</author>
         <critdates>
             <created date="2026-06-25"/>
+            <revised modified="2026-06-29"/>
         </critdates>
     </prolog>
-    
+
     <refbody>
-        
+        <section>
+            <note type="tip">Before visiting a bookshop, we suggest that you check the bookshop's
+                official website to make sure that they're not temporarily closed.</note>
+        </section>
         <simpletable frame="all" relcolwidth="1* 1* 1* 1* 1* 1*" id="simpletable_mxf_1qm_njc">
             <sthead>
                 <stentry>Bookshop</stentry>
@@ -70,10 +74,6 @@
                         scope="external"/></stentry>
             </strow>
         </simpletable>
-
-        <section>
-            <p>This is the <ph keyref="guide_version"/> guide.</p>
-        </section>
 
     </refbody>
 </reference>
