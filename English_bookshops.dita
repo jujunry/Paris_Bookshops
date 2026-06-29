@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="English_bookshops">
+    <title>Where to find an English bookshop in Paris?</title>
+    <shortdesc>If you're in Paris wondering where to find your next read, you're in the right place!
+        Whether you're an anglophone tourist visiting Paris or a local willing to learn English,
+        you'll find everything you need in this guide.</shortdesc>
+    <prolog>
+        <author>Juliette Nereyou</author>
+        <critdates>
+            <created date="2026-06-25"/>
+        </critdates>
+        <metadata>
+            <keywords>
+                <keyword>bookstore</keyword>
+                <keyword>library</keyword>
+                <keyword>american English</keyword>
+                <keyword>US-EN</keyword>
+                <keyword>british English</keyword>
+                <keyword>UK-EN</keyword>
+            </keywords>
+            <othermeta name="city" content="Paris"/>
+        </metadata>
+    </prolog>
+    <conbody>
+        <section>
+            <p><b>Here is an extensive list of Anglophone bookshops in Paris:</b></p>
+            <ul>
+                <li><p><b>Smith and Son (main shop):</b> 248, 250 Rue de Rivoli 75001</p></li>
+                <li><p><b>Librairie Galignani:</b> 224 Rue de Rivoli 75001</p></li>
+                <li><p><b>Shakespeare and Company:</b> 37 Rue de la Bûcherie 75005</p></li>
+                <li><p><b>The Abbey Bookshop:</b> 29 Rue de la Parcheminerie 75005</p></li>
+                <li><p><b>San Francisco Book Co:</b> 17 Rue Monsieur le Prince 75006</p></li>
+                <li><p><b>The Red Wheelbarrow Bookstore:</b> 9, 11 Rue de Médicis 75006</p></li>
+            </ul>
+            <p>This is the <ph keyref="guide_version"/> guide.</p>
+        </section>
+       
+    </conbody>
+</concept>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>English Bookshops in Paris</title>
+
+    <topicmeta>
+        <author>Juliette Nereyou</author>
+        <copyright>
+            <copyryear year="2026"/>
+            <copyrholder>Juliette Nereyou</copyrholder>
+        </copyright>
+        <keywords>
+            <keyword>Bookstores</keyword>
+        </keywords>
+    </topicmeta>
+
+    <keydef keys="guide_version">
+        <topicmeta>
+            <linktext>2026 Edition</linktext>
+        </topicmeta>
+    </keydef>
+
+
+    <topichead>
+        <topicmeta>
+            <navtitle>Best indie English Bookshops in Paris</navtitle>
+            <othermeta name="doc_status" content="draft"/>
+        </topicmeta>
+
+        <topicref href="English_bookshops.dita" type="concept" format="dita" chunk="to-content"
+            navtitle="Are there any English-language bookshops in Paris?" locktitle="yes">
+            <topicref href="Bookshops_info.dita" navtitle="More information on the bookshops"
+                type="reference" format="dita"/>
+        </topicref>
+
+        <topicref href="Itinerary_bookshop.dita" type="task" format="dita"/>
+
+        <topicref href="Tips.dita" type="topic" format="dita" copy-to="Tourists_tips.dita"/>
+
+    </topichead>
+
+    <reltable>
+        <relheader>
+            <relcolspec type="concept"/>
+            <relcolspec type="task"/>
+            <relcolspec type="reference"/>
+        </relheader>
+        <relrow>
+            <relcell>
+                <topicref href="English_bookshops.dita" type="concept"/>
+            </relcell>
+            <relcell>
+                <topicref href="Itinerary_bookshop.dita" type="task"/>
+            </relcell>
+            <relcell>
+                <topicref href="Bookshops_info.dita" type="reference"/>
+            </relcell>
+        </relrow>
+    </reltable>
+
+</map>
